@@ -12,6 +12,10 @@
     "px2rem"
   ],
   "author": "xblxc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xblxc/px2rem-loader.git"
+  },
   "license": "MIT",
   "dependencies": {
     "loader-utils": "^1.1.0",

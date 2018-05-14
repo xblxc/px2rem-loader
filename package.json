@@ -1,6 +1,6 @@
 {
   "name": "@away/px2rem-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert px to rem in any files",
   "main": "index.js",
   "scripts": {
